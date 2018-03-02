@@ -1,2 +1,2 @@
-# special-system
+# Special-System
 Repo for SWCGuild
